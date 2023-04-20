@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: dc19b29af4c26e045bec63073c3f1839
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5049797777621002247
+    second: printing_letters_A
+  - first:
+      213: -3025380992116141114
+    second: printing_letters_a
+  - first:
+      213: 4172849627887328358
+    second: printing_letters_B
+  - first:
+      213: 7227571709127144469
+    second: printing_letters_b
+  - first:
+      213: 3500640412224855792
+    second: printing_letters_C
+  - first:
+      213: -3653504989487182908
+    second: printing_letters_c
+  - first:
+      213: -5245562693808318866
+    second: printing_letters_D
+  - first:
+      213: -4254036068178552650
+    second: printing_letters_d
+  - first:
+      213: 2960873441683289802
+    second: printing_letters_E
+  - first:
+      213: -4597723285278262202
+    second: printing_letters_e
+  - first:
+      213: -7323184201725151333
+    second: printing_letters_F
+  - first:
+      213: -6932721045370224539
+    second: printing_letters_f
+  - first:
+      213: 3914234200062844252
+    second: printing_letters_G
+  - first:
+      213: 5119771535726465947
+    second: printing_letters_g
+  - first:
+      213: 29615694213813848
+    second: printing_letters_H
+  - first:
+      213: 2623467812144404678
+    second: printing_letters_h
+  - first:
+      213: 4946098905052933181
+    second: printing_letters_I
+  - first:
+      213: -7450236188760650938
+    second: printing_letters_J
+  - first:
+      213: 788520856166789254
+    second: printing_letters_j
+  - first:
+      213: 614913471936437541
+    second: printing_letters_K
+  - first:
+      213: 1513138942596682973
+    second: printing_letters_k
+  - first:
+      213: 865564401323288761
+    second: printing_letters_L
+  - first:
+      213: -6422759560248087180
+    second: printing_letters_l
+  - first:
+      213: 4353142999877512448
+    second: printing_letters_M
+  - first:
+      213: 6714974548086717496
+    second: printing_letters_m
+  - first:
+      213: -2756158021826924036
+    second: printing_letters_N
+  - first:
+      213: -6617732935184111082
+    second: printing_letters_n
+  - first:
+      213: 4805460259447795748
+    second: printing_letters_O
+  - first:
+      213: 1881950784410634548
+    second: printing_letters_o
+  - first:
+      213: -4822175466756704083
+    second: printing_letters_P
+  - first:
+      213: -2292849773682258185
+    second: printing_letters_p
+  - first:
+      213: 4678716978114316639
+    second: printing_letters_Q
+  - first:
+      213: 4910886956005777700
+    second: printing_letters_q
+  - first:
+      213: -7378948963175497005
+    second: printing_letters_R
+  - first:
+      213: -3345407238100325027
+    second: printing_letters_r
+  - first:
+      213: 3825782724396371587
+    second: printing_letters_35
+  - first:
+      213: -3197521594032835196
+    second: printing_letters_s
+  - first:
+      213: -2522593628250290518
+    second: printing_letters_T
+  - first:
+      213: 7592236478401945763
+    second: printing_letters_t
+  - first:
+      213: 777639043236998495
+    second: printing_letters_U
+  - first:
+      213: 1441232227288037941
+    second: printing_letters_u
+  - first:
+      213: -2563536810981781450
+    second: printing_letters_V
+  - first:
+      213: -495292453658972139
+    second: printing_letters_v
+  - first:
+      213: -3756602298944856623
+    second: printing_letters_W
+  - first:
+      213: -2920233268984011873
+    second: printing_letters_w
+  - first:
+      213: -4381238255229765450
+    second: printing_letters_X
+  - first:
+      213: 5247091440150791237
+    second: printing_letters_x
+  - first:
+      213: -1201775175422257691
+    second: printing_letters_Y
+  - first:
+      213: 6151595202919637566
+    second: printing_letters_y
+  - first:
+      213: 7728053914339272086
+    second: printing_letters_Z
+  - first:
+      213: 3655422096246176244
+    second: printing_letters_z
+  - first:
+      213: 686063898146133979
+    second: printing_letters_i
+  - first:
+      213: 5026210602380645140
+    second: printing_letters_52
+  - first:
+      213: -8232303363629542986
+    second: printing_letters_S
+  - first:
+      213: -5453946217937218450
+    second: printing_letters_54
+  - first:
+      213: -1488389532485792489
+    second: printing_letters_55
+  - first:
+      213: -7341847860863855102
+    second: printing_letters_56
+  - first:
+      213: -4671513639089972375
+    second: printing_letters_57
+  - first:
+      213: 2527504892769155201
+    second: printing_letters_58
+  - first:
+      213: -1638592315113462288
+    second: printing_letters_59
+  - first:
+      213: -5974796790580798318
+    second: printing_letters_60
+  - first:
+      213: -3894841497779622491
+    second: printing_letters_61
+  - first:
+      213: 2914563520619261335
+    second: printing_letters_62
+  - first:
+      213: 7147680598920661016
+    second: printing_letters_63
+  - first:
+      213: 7990060144027687577
+    second: printing_letters_64
+  - first:
+      213: -4143064084938965233
+    second: printing_letters_65
+  - first:
+      213: -1923966442382336528
+    second: printing_letters_66
+  - first:
+      213: 7880845914486522895
+    second: printing_letters_67
+  - first:
+      213: 7728042860047457639
+    second: printing_letters_68
+  - first:
+      213: -3634617610071468045
+    second: printing_letters_69
+  - first:
+      213: 6403144978119416004
+    second: printing_letters_70
+  - first:
+      213: 98732618416626108
+    second: printing_letters_71
+  - first:
+      213: -5888977929890779814
+    second: printing_letters_72
+  - first:
+      213: 291766084778354632
+    second: printing_letters_73
+  - first:
+      213: -5595858264767834123
+    second: printing_letters_74
+  - first:
+      213: -1124978243935433689
+    second: printing_letters_75
+  - first:
+      213: 3427493302288611966
+    second: printing_letters_76
+  - first:
+      213: -4545254667447548015
+    second: printing_letters_77
+  - first:
+      213: -6716373129624039609
+    second: printing_letters_78
+  - first:
+      213: 3216668675519256870
+    second: printing_letters_79
+  - first:
+      213: 5104135125875631015
+    second: printing_letters_80
+  - first:
+      213: -1107803708530270897
+    second: printing_letters_81
+  - first:
+      213: -1104384255174376763
+    second: printing_letters_82
+  - first:
+      213: -4725234736272638196
+    second: printing_letters_83
+  - first:
+      213: 3451464916464373131
+    second: printing_letters_84
+  - first:
+      213: -1174702138600269871
+    second: printing_letters_85
+  - first:
+      213: -1080825603921778510
+    second: printing_letters_86
+  - first:
+      213: 3714361471180715751
+    second: printing_letters_87
+  - first:
+      213: 1830211572718741246
+    second: printing_letters_88
+  - first:
+      213: 3153084888489450603
+    second: printing_letters_89
+  - first:
+      213: -8793324114512802517
+    second: printing_letters_90
+  - first:
+      213: -2374670079126943134
+    second: printing_letters_91
+  - first:
+      213: -1395855363460845502
+    second: printing_letters_92
+  - first:
+      213: 2260270924496001660
+    second: printing_letters_93
+  - first:
+      213: 2473833102375263254
+    second: printing_letters_94
+  - first:
+      213: 8673111691587689890
+    second: printing_letters_95
+  - first:
+      213: 632989674935638433
+    second: printing_letters_96
+  - first:
+      213: -124511907516882377
+    second: printing_letters_97
+  - first:
+      213: 6648269423136645723
+    second: printing_letters_98
+  - first:
+      213: 1157254430737139898
+    second: printing_letters_99
+  - first:
+      213: -691879703372382952
+    second: printing_letters_100
+  - first:
+      213: 7648573026678115296
+    second: printing_letters_101
+  - first:
+      213: 4342223749712719368
+    second: printing_letters_102
+  - first:
+      213: -8042307791617927429
+    second: printing_letters_103
+  - first:
+      213: 5230588420063672049
+    second: printing_letters_104
+  - first:
+      213: 7742979591343344715
+    second: printing_letters_105
+  - first:
+      213: -5951640451532477966
+    second: printing_letters_106
+  - first:
+      213: 5163231507208848503
+    second: printing_letters_107
+  - first:
+      213: 5095795182143863077
+    second: printing_letters_108
+  - first:
+      213: -1417953777447950885
+    second: printing_letters_109
+  - first:
+      213: -1698714508336156122
+    second: printing_letters_110
+  - first:
+      213: 1642731853075424851
+    second: printing_letters_111
+  - first:
+      213: -2161796766423672685
+    second: printing_letters_112
+  - first:
+      213: -6543070701103964876
+    second: printing_letters_113
+  - first:
+      213: -3411765238811004424
+    second: printing_letters_114
+  - first:
+      213: 4615401577790931773
+    second: printing_letters_115
+  - first:
+      213: -7533926901820066386
+    second: printing_letters_116
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: printing_letters_A
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 532
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe77c164216a44aa927be4761f037b
+      internalID: -5049797777621002247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_a
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 537
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c4a3990c31b184eac152fd8b10237b
+      internalID: -3025380992116141114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_B
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 539
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4372f2200314d147817698d0bd65101
+      internalID: 4172849627887328358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_b
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 539
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac69660f7178c540921a540e6560511
+      internalID: 7227571709127144469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_C
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 538
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41345d08fbac96846954f4ae9c97d828
+      internalID: 3500640412224855792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_c
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 539
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad48a6672b72c46ac6e6a28f29fc0f
+      internalID: -3653504989487182908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_D
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 540
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c75ecdf07f96d4aab48aac1eee9dd7
+      internalID: -5245562693808318866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_d
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 537
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c7687a2fb912545a9e4f5e331f331e
+      internalID: -4254036068178552650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_E
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 539
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf40c596c9b4a419d95bd894f77104
+      internalID: 2960873441683289802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_e
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 433
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e93888a97e91eb49adf7ba61949e8e1
+      internalID: -4597723285278262202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_F
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 434
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5299a1f1f4174ca4bb3526f99f61e
+      internalID: -7323184201725151333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_f
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 435
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5e6304492fc04c9ce7f381c64e706
+      internalID: -6932721045370224539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_G
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 431
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b134a7c49c5d194faf2590080ccc538
+      internalID: 3914234200062844252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_g
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 416
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c456ec88dfec1946b60760312af31f7
+      internalID: 5119771535726465947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_H
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 429
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b64026e68e12b4cad59cd406c3a0ad
+      internalID: 29615694213813848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_h
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 433
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8af4486210b84e88f2a0674feb8be
+      internalID: 2623467812144404678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_I
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 433
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc4255f3d7dcf42b1e8222ca2cdf61
+      internalID: 4946098905052933181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_J
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 430
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb97079e3a4bbe4888ac7301e28ed60
+      internalID: -7450236188760650938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_j
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 309
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a795b75d88ee224db79b7d9d4f3c936
+      internalID: 788520856166789254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_K
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 327
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27d94557ecead4282b2e98741c061f
+      internalID: 614913471936437541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_k
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 326
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c00d00ab39564a9f15bc83896442b
+      internalID: 1513138942596682973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_L
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 326
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40810e0027e362c44a913e7a9575c81e
+      internalID: 865564401323288761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_l
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 326
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ba156d64a3fd14d9f74a9cccccc67e
+      internalID: -6422759560248087180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_M
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 326
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de93e72726fd3e4fb7199454297a05b
+      internalID: 4353142999877512448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_m
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 326
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f96c3fad149cc04e8d87b43d66bfc73
+      internalID: 6714974548086717496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_N
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 326
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69d479209e96945937eb4913edfdc1
+      internalID: -2756158021826924036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_n
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 326
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d93068232daeb46b1c9edafb7d423c
+      internalID: -6617732935184111082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_O
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 221
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76754203686a12409fccb61008cbb0b
+      internalID: 4805460259447795748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_o
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 217
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6150c40677a4b744d9c11f0c910769ec
+      internalID: 1881950784410634548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_P
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 220
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c630af14b85e9c4cbb31bede75e7c63
+      internalID: -4822175466756704083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_p
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 203
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231fc378ed520e4ca2942aa47299bd7
+      internalID: -2292849773682258185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_Q
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 217
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746de40901859b747b0513af11f34c50
+      internalID: 4678716978114316639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_q
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 207
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99283b5be0a5a7d4a82b3b09bb103742
+      internalID: 4910886956005777700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_R
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 215
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8d5e9d0a8ce0c47ab44a0c3158f836
+      internalID: -7378948963175497005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_r
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 221
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30d897592aa5741a3ba2ef6e47bf77
+      internalID: -3345407238100325027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_35
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 336
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a61ec5db007a74d9d4e71295516a8c
+      internalID: 3825782724396371587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_s
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 112
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe5ef3319a8854a98876a10333131b
+      internalID: -3197521594032835196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_T
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 114
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a22ea9c8efd14497e8fa106527127
+      internalID: -2522593628250290518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_t
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 114
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef3b7b79f6c0da40a6cd9e6b6623ea6
+      internalID: 7592236478401945763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_U
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 111
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c793f1d5465ea141b74dd117e0a891b
+      internalID: 777639043236998495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_u
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 114
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9cbc63ae1c28048a57faace7daf454
+      internalID: 1441232227288037941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_V
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0e059d569c9448b0ba363757cb82a
+      internalID: -2563536810981781450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_v
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ae5bd05024744e9937f33b08f7835
+      internalID: -495292453658972139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_W
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 114
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d8c3d9a768d44581fe67bf7717a8c
+      internalID: -3756602298944856623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_w
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 113
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30656fb2082e95648af9fe61b0f720fe
+      internalID: -2920233268984011873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_X
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45ff54e0139e242b323e68358302ef
+      internalID: -4381238255229765450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_x
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 22
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d20f649a1958464cbda98c7e6c133c9
+      internalID: 5247091440150791237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_Y
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 20
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079b5a32c56f1c347a709c95a68b352f
+      internalID: -1201775175422257691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_y
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe54f27d9571c1640a3e72c772c57efb
+      internalID: 6151595202919637566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_Z
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 23
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7bbf1b91e5fc498b03995d4a12bd9
+      internalID: 7728053914339272086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_z
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 23
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b05f8eb9e2eb4e8fd34f73b07c80a
+      internalID: 3655422096246176244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_i
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 433
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33b536b187cbc48bc8ccd9bf5007b6
+      internalID: 686063898146133979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_52
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 26
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a58921bb322d0419c4e40b05c4859f
+      internalID: 5026210602380645140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: printing_letters_S
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 216
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682b4c224f70da4796ca13703b4218d
+      internalID: -8232303363629542986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

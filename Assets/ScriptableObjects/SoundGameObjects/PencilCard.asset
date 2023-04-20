@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3f5cfef31ba9a47b0031f62840061b, type: 3}
+  m_Name: PencilCard
+  m_EditorClassIdentifier: 
+  soundPicture: {fileID: 21300000, guid: 2bc6172b96a3e1f4bb335a4a8b0411fa, type: 3}
+  pictureWithText: {fileID: 21300000, guid: 4c40c74768fffb046878e790028092c4, type: 3}
+  pictureName: {fileID: 8300000, guid: 5dc480f39afb1ca4e971ab9f971dd6f9, type: 3}
+  pictureName2: {fileID: 8300000, guid: abe176282572d3642aa6ce370a597473, type: 3}
+  pictureTag: PPP
+  alphabetNumber: 16
+  cardSet: 1

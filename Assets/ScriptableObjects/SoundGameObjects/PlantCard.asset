@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3f5cfef31ba9a47b0031f62840061b, type: 3}
+  m_Name: PlantCard
+  m_EditorClassIdentifier: 
+  soundPicture: {fileID: 21300000, guid: a75c26a8d978c354882e64d0664c5594, type: 3}
+  pictureWithText: {fileID: 21300000, guid: 2893d0f7d04393b42b0ec48f67fd4f6c, type: 3}
+  pictureName: {fileID: 8300000, guid: 8a2694c3820ed0547a6bb761c70fa7f4, type: 3}
+  pictureName2: {fileID: 8300000, guid: 54c9e65dff62d5c47a6d82ffe7e185cf, type: 3}
+  pictureTag: PPP
+  alphabetNumber: 16
+  cardSet: 1
